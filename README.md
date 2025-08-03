@@ -17,10 +17,10 @@ They want to understand why people buy mid-range phones like Realme and Pixel mo
 10. Conclusion
 
 # 1. Our Task On the Basis of this Scenario
-⦁ Analyze which purchase reasons are most associated with specific phone brands.
-⦁ Understand if income levels impact those reasons (e.g., low-income customers choosing price over performance).
-⦁ Check if models with higher ratings share common patterns (e.g., reasons for purchase or preferred payment method).
-⦁ Recommend 3–4 actionable marketing strategies based on these insights (e.g., banners like “Top Rated by Friends” or “Best Performer Under ₹40K”).
+1. Analyze which purchase reasons are most associated with specific phone brands.
+2. Understand if income levels impact those reasons (e.g., low-income customers choosing price over performance).
+3. Check if models with higher ratings share common patterns (e.g., reasons for purchase or preferred payment method).
+4. Recommend 3–4 actionable marketing strategies based on these insights (e.g., banners like “Top Rated by Friends” or “Best Performer Under ₹40K”).
 
 # 2. Data Sources
 I Created this dataset using ChatGpt based on a prompt where I Give Prompt to ChatGpt to Generate dataset 
