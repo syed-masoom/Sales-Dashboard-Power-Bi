@@ -56,10 +56,10 @@ Where I specified necessary columns for the sales data of a mobile store and dat
 
 # 6. Mid-Range-Phone Performance
 Mid-Range Phone Segment Performance
-⦁	Revenue: ₹154.37M
-⦁	Total Orders: 4,073
-⦁	Average Rating: 4.0
-⦁	Profit: ₹21.54M
+*	Revenue: ₹154.37M
+*	Total Orders: 4,073
+*	Average Rating: 4.0
+*	Profit: ₹21.54M
 
 Top Purchase Reasons for Mid-Range Phones.
 ⦁	Gaming     | Orders 1,868  | Revenue ₹93.99M | Profit ₹12.48M | Share 45.86% |
@@ -70,10 +70,10 @@ Top Purchase Reasons for Mid-Range Phones.
 ⦁	Marketing should focus on fun, feature-packed user experiences.
 
 % of Orders by Payment Methods
-⦁	Debit Card - 36.53% of Orders.
-⦁	UPI - 27.42%  of Orders.
-⦁	Cash - 18.17% of Orders.
-⦁	Bank Transfer - 17.87% of Orders.
+*	Debit Card - 36.53% of Orders.
+*	UPI - 27.42%  of Orders.
+*	Cash - 18.17% of Orders.
+*	Bank Transfer - 17.87% of Orders.
 
 Digital payments dominate, showing that our users are tech-savvy and digitally inclined.
 Campaigns offering UPI/debit card cashback or instant discounts may boost conversions.
