@@ -69,7 +69,7 @@ Top Purchase Reasons for Mid-Range Phones.
 *	Customers care more about gaming and features than just raw performance.
 *	Marketing should focus on fun, feature-packed user experiences.
 
-% of Orders by Payment Methods
+Sales % by Payment Methods
 *	Debit Card - 36.53% of Orders.
 *	UPI - 27.42%  of Orders.
 *	Cash - 18.17% of Orders.
