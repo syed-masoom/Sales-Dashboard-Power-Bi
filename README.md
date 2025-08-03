@@ -48,6 +48,8 @@ Where I specified necessary columns for the sales data of a mobile store and dat
 * Bar Chart: Revenue by Phone Model
 * Slicers: Price Range and Rating Filter
 
+Dashboard "C:\Users\masoo\OneDrive\Pictures\Screenshots\Mobile Sales Dashboard.png"
+
 # 5.  Overall Business Performance
 *	Total Revenue: ₹655.23M
 *	Total Orders: 10,000
