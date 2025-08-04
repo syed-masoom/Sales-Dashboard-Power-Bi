@@ -89,16 +89,7 @@ Across all income groups, Gaming and Features are consistent top priorities.
 So, value-for-money matters more than just affordability.
 
 # Top 10 Best Selling Mid-Range-Phone
-1. Galaxy M33
-2. Realme 9 Pro
-3. iPhone SE
-4. Redmi 10
-5. iPhone 13
-6. Realme C35
-7. Galaxy A53
-8. Galaxy S22
-9. OnePlus 10R
-10. Galaxy Z Fold 3
+![image alt]("C:\Users\masoo\OneDrive\Pictures\Screenshots\Best-Selling-Phone.png")
     
 # Action Plan
 1.	Target customers looking for gaming and feature-rich phones — create banners like:
