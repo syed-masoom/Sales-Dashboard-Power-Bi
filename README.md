@@ -48,7 +48,7 @@ Where I specified necessary columns for the sales data of a mobile store and dat
 * Bar Chart: Revenue by Phone Model
 * Slicers: Price Range and Rating Filter
 
-https://raw.githubusercontent.com/syed-masoom/Sales-Dashboard-Power-Bi/refs/heads/main/Mobile%20Sales%20Dashboard.png
+Dashboard[https://raw.githubusercontent.com/syed-masoom/Sales-Dashboard-Power-Bi/refs/heads/main/Mobile%20Sales%20Dashboard.png]
 
 # 5.  Overall Business Performance
 *	Total Revenue: ₹655.23M
