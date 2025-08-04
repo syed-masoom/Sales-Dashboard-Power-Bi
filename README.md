@@ -89,10 +89,41 @@ Across all income groups, Gaming and Features are consistent top priorities.
 So, value-for-money matters more than just affordability.
 
 # Top 10 Best Selling Mid-Range-Phone
-
+1. Galaxy M33
+2. Realme 9 Pro
+3. iPhone SE
+4. Redmi 10
+5. iPhone 13
+6. Realme C35
+7. Galaxy A53
+8. Galaxy S22
+9. OnePlus 10R
+10. Galaxy Z Fold 3
+    
 # Action Plan
+1.	Target customers looking for gaming and feature-rich phones — create banners like:
+   “Best Gaming Phones Under ₹30K” or “Feature-Packed for Everyday Use”.
+
+2. Promote digital-friendly payment offers — such as:
+   “5% Cashback on UPI/Debit Card” or “No-Cost EMI on Mid-Range Phones”
+
+3. Focus marketing on young and mid-age tech users — highlight ease of use, camera, social apps, and entertainment.
+
+4. Personalize campaigns by behavior — based on rating, phone model preference, or income level.
 
 # Key Takeways
+⦁	Customers prefer phones that deliver fun and functionality — especially gaming and features.
+⦁	Most customers are young or mid-age, digitally fluent, and price-conscious.
+⦁	Simple payment options like UPI and debit cards are widely used.
+⦁	Performance alone isn’t the key selling point — people want a balance of features and price.
 
 # Conclusion
+This analysis clearly shows that our mid-range phone buyers are **young, tech-savvy, and value-focused**.
+To increase conversions, we must:
+
+⦁	Highlight real value (gaming + features).
+⦁	Make payment easier and more rewarding.
+⦁	Speak directly to everyday users, not just power users.
+
+Thank you!
 
