@@ -116,5 +116,5 @@ To increase conversions, we must:
 ⦁	Make payment easier and more rewarding.
 ⦁	Speak directly to everyday users, not just power users.
 
-                                             # Thank you!
+-- Thank you!
 
